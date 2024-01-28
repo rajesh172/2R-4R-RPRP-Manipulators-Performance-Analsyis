@@ -3,3 +3,6 @@ This project involved the simulation and analysis of various manipulators for di
 - In our analysis, we compared the performance of the RPRP and 4-R robots by evaluating various performance indices in the same workspace. In addition, we applied both motion control and adaptive control techniques on the 2R manipulator, resulting in improved performance. The motion control allowed us to regulate the position, velocity, and acceleration of the manipulator's end effector, while adaptive control techniques adjusted the controller parameters based on changes in the system dynamics, making the manipulator more efficient, accurate, and adaptable to changes in the system dynamics.
 - We also simulated the KUKA LBR iiwa 7 R800, a 7-DOF robot, and optimized it to withstand the force and torque it would be subjected to. In the early stages of the project, we applied ILC (Iterative Learning control) along with Feed-forward control on a pendulum.
 - For comprehensive details on each manipulator's workings, please refer to the Reports folder, where you will find a detailed explanation of the methodologies and findings. 
+
+## License
+[MIT License](LICENSE)
